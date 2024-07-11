@@ -1,4 +1,4 @@
-# Sales Prediction Project (Task-3) 
+# Sales Prediction Project (Task-2) 
 
 This project aims to predict sales based on advertising spend across different media channels (TV, Radio, Newspaper).
 
